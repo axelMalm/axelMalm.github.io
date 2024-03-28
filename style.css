@@ -83,8 +83,9 @@ img#meImage{
     padding-top: 2%;
 }
 p.infoText{
+    font-size: 14pt;
     font-family:TenorSans;
-    background-color: rgb(255, 238, 161);
+    background-color:rgb(120, 120, 219);
     padding: 10px;
     padding-left: 10%;
     border-style: groove;
@@ -104,7 +105,7 @@ img.displayImage{
 div.controllerBreak{
     width: auto;
     height: 300px;
-    background-image: url(CVGraphics2.png);
+    background-image: url(CVGraphics.png);
     margin-bottom: 10%;
 }
 
